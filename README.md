@@ -5,4 +5,4 @@ AutoSalesReports - ASR
 
 No code is submitted for this project. The databse was developed in Caspio (MS SQL Server).
 Only screen captures of the final product is listed as this product has been discontinued
-and therefore no liver version of it is running.
+and therefore no live version of it is running.
